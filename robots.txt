@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-fdpxtr.indocuan.online/sitemap.xml
